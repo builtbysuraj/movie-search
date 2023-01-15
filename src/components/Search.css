@@ -1,0 +1,35 @@
+body{
+  margin-left: 8rem;  
+  margin-right: 8rem;
+}
+
+input {
+  padding: 1.3rem;
+  margin-top: 0;
+  margin-left: 1rem;
+  margin-bottom: 0.1rem;
+  width: 45%;
+  font-size: 1.3rem;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 1rem;
+  cursor: pointer;
+  transition: all 0.5s;
+  font-size: 1rem;
+  border: none;
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+}
+
+div > h1 {
+  text-align: center;
+  margin-top: 0;
+}

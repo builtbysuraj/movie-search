@@ -1,0 +1,26 @@
+.flex-container {
+  display: flex;
+  margin: auto;
+}
+
+.flex-container > div {
+  flex: 1;
+  padding-left: 2rem;
+}
+
+.details > div {
+  padding: 0.6rem;
+  font-size: larger;
+  border-radius: 10px;
+  color: white;
+  transition: all 0.5s;
+}
+
+img{
+  margin-left: 5rem;
+}
+
+.useInput {
+  font-size: large;
+  margin: 1rem;
+}
